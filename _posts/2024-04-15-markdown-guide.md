@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Markdown Guide
-subtitle: Resources to work with Markdown
-categories: markdown
+layout: Cybersecurity 
+title: ## Cybersecurity Princess
+subtitle: ## Prospective Cybersecurity Engineer
+categories: ## Tech
 tags: [guide, markdown]
 ---
 
