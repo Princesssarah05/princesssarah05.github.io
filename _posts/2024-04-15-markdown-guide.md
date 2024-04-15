@@ -3,11 +3,7 @@ layout: Cybersecurity
 title: ## Cybersecurity Princess
 subtitle: ## Prospective Cybersecurity Engineer
 categories: ## Cybersecurity
-tags: [# Tech 
-# Cybersecurity 
-# Data science 
-# AI
-# App dev]
+tags: 
 ---
 
 ## Resources
