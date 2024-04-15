@@ -2,8 +2,8 @@
 layout: Cybersecurity 
 title: ## Cybersecurity Princess
 subtitle: ## Prospective Cybersecurity Engineer
-categories: ## Tech
-tags: [guide, markdown]
+categories: ## Cybersecurity
+tags: [# Tech, # Cybersecurity, # Data science, # AI,# App dev]
 ---
 
 ## Resources
