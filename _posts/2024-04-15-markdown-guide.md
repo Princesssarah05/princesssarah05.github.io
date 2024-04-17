@@ -1,9 +1,9 @@
 ---
-layout: Cybersecurity 
-title: ## Cybersecurity Princess
-subtitle: ## Prospective Cybersecurity Engineer
-categories: ## Cybersecurity
-tags: 
+layout: Writing 
+title: ## Author
+subtitle: ## Ongoing Stories
+categories: ## Novels
+tags: Hobby, Books, Novels
 ---
 
 ## Resources
