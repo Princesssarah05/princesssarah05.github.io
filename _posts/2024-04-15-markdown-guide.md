@@ -1,9 +1,9 @@
 ---
-layout: Writing 
-title:   # Author
-subtitle:  # Writer
-categories:  # Novels
-tags: Hobby, Books, Novels
+layout:##
+title:##   
+subtitle:  
+categories:##  
+tags: 
 ---
 
 ## Drafts
