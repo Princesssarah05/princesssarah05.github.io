@@ -1,7 +1,7 @@
 ---
 layout:##
-title:##   
-subtitle:##  
+title:   
+subtitle:  
 categories:
 tags: 
 ---
