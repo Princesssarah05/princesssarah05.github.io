@@ -1,7 +1,7 @@
 ---
 layout: Writing 
-title: ## Author
-subtitle: ## Ongoing Stories
+title: ##  Author
+subtitle: ##  Ongoing Stories
 categories: ## Novels
 tags: Hobby, Books, Novels
 ---
