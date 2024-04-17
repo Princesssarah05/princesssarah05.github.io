@@ -1,11 +1,11 @@
 ---
 layout: Writing 
-title: ##  #Author
-subtitle: ##  #Ongoing Stories
-categories: ## #Novels
+title:   # Author
+subtitle:  # Writer
+categories:  # Novels
 tags: Hobby, Books, Novels
 ---
 
-## Resources
+## Drafts
 
 This is a [good guide](https://www.markdownguide.org/basic-syntax/) to learn about the basic markdown syntax.
