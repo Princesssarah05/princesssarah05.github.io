@@ -2,7 +2,7 @@
 layout:##
 title:##   
 subtitle:  
-categories:##  
+categories:
 tags: 
 ---
 
