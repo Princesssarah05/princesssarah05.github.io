@@ -1,11 +1,11 @@
 ---
-layout:##
-title:##   
-subtitle:  
-categories:
-tags: 
+layout:## post
+title:## Markdown Guide  
+subtitle: Resources to work with Markdown 
+categories: markdown
+tags: markdown guide markdown
 ---
 
-## Drafts
+## Resources
 
 This is a [good guide](https://www.markdownguide.org/basic-syntax/) to learn about the basic markdown syntax.
