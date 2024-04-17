@@ -1,8 +1,8 @@
 ---
-layout:## post
-title:## Markdown Guide  
+layout: ## post
+title: ## Markdown Guide  
 subtitle: Resources to work with Markdown 
-categories: markdown
+categories markdown
 tags: markdown guide markdown
 ---
 
