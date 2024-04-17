@@ -1,6 +1,6 @@
 ---
 layout:##
-title:   
+title:##   
 subtitle:  
 categories:
 tags: 
