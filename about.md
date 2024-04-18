@@ -1,8 +1,8 @@
 ---
-layout: my name is Sarah Ademola
-title: aspiring to become a cyber security engineer
+layout: Sarah Ademola
+title: an aspiring cyber security engineer
 ---
 
 ## About
 
-Hi, my name is Ademola Sarah, aka Princess Sarah. I am very excited to be here! I love exploring, and i would love to explore the intruiging world of tech with the assured expectations of being one of the best tech expert there is from Tech Expert Academy.
+Hi, my name is Ademola Sarah. I am from Ado Ekiti state, Nigeria. I applied for tech expert academy because i have passion for Tech and problem solving. Like I said, I an aspiring cybersecurity engineer, so I am very excited to begin this wonderful tech journey with Tech expert academy!
